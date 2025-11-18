@@ -1,3 +1,6 @@
+# sm64ex_alo-coop
+alo with coop support, its buggy but it works
+
 # sm64ex_alo
 Fork of [sm64pc/sm64ex](https://github.com/sm64pc/sm64ex) with additional features. 
 
