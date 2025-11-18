@@ -1,4 +1,4 @@
-# sm64ex_alo-coop
+# sm64ex_alo_coop
 [sm64ex-alo]([https://github.com/AloUltraExt/sm64ex-alo]) with coop support, its buggy but it works
 
 # sm64ex_alo
